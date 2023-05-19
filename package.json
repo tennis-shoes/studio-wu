@@ -1,5 +1,6 @@
 {
-  "name": "my-app",
+  "name": "studio-wu",
+  "homepage": "https://tennis-shoes.github.io/studio-wu",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
