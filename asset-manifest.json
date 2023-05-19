@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.cefbc591.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.cefbc591.js.map": "/static/js/main.cefbc591.js.map"
+    "main.js": "/studio-wu/static/js/main.cefbc591.js",
+    "service-worker.js": "/studio-wu/service-worker.js",
+    "index.html": "/studio-wu/index.html",
+    "main.cefbc591.js.map": "/studio-wu/static/js/main.cefbc591.js.map"
   },
   "entrypoints": [
     "static/js/main.cefbc591.js"
